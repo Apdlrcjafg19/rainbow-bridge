@@ -26,6 +26,6 @@
     "eth-util-lite": "near/eth-util-lite#master",
     "lodash": "^4.17.20",
     "near-api-js": "^1.1.0",
-    "web3": "^1.6.0"
+    "web3": "^1.10.1"
   }
 }
