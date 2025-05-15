@@ -20,7 +20,7 @@
     "bs58": "^4.0.1",
     "eth-object": "https://github.com/aurora-is-near/eth-object#378b8dbf44a71f7049666cea5a16ab88d45aed06",
     "eth-util-lite": "near/eth-util-lite#master",
-    "ethereumjs-util": "^6.2.0",
+    "ethereumjs-util": "^7.0.2",
     "prom-client": "^13.0.0",
     "rainbow-bridge-utils": "file:../../utils"
   }
