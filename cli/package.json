@@ -27,7 +27,7 @@
     "eth-util-lite": "near/eth-util-lite#master",
     "ethereumjs-util": "^7.0.2",
     "node-fetch": "^2.6.7",
-    "pm2": "^4.4.0",
+    "pm2": "^5.0.0",
     "pm2-promise": "^2.0.1",
     "rainbow-bridge-utils": "1.0.0",
     "rainbow-bridge-eth2near-block-relay": "1.0.0",
